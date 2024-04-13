@@ -26,8 +26,3 @@ To use this script, follow these steps:
 - SciPy
 - Matplotlib
 
-## Example
-
-Suppose you have experimental data stored in a file named `experiment_data.txt`. To fit the damped oscillation model to this data, you would run the script with `filepath = 'experiment_data.txt'`. After running the script, it will display a plot showing the original data points and the fitted curve representing the damped oscillation model.
-
-For any questions or issues, please contact [author_name](mailto:author_email).
